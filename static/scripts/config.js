@@ -10,7 +10,6 @@ export default {
     "meme/111122222.png",
     "meme/12121212.png",
     "meme/13CF98AD-88EA-4477-B0EC-8288142714B2_big.png",
-    "meme/2.png",
     "meme/29C3410D-4E9D-48DC-947C-E3A81EDF347A_org.jpg",
     "meme/2aa9504cef9f43ab4d96db9c053bef75_big.jpg",
     "meme/37528D13-FFD1-4DC4-B03F-98F4897DE138_big.jpg",
@@ -329,6 +328,7 @@ export default {
     "meme/海岛物品.jpg",
     "meme/渣男吴.jpg",
     "meme/猪吴.jpg",
-    "meme/种猪色有人.jpg"
+    "meme/种猪色有人.jpg",
+    "meme/色吴.png"
   ]
 }
