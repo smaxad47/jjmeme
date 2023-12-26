@@ -7,6 +7,7 @@ export default {
     "meme/11111_001.png",
     "meme/11111_002.png",
     "meme/11111_003.png",
+    "meme/111122222.png",
     "meme/12121212.png",
     "meme/13CF98AD-88EA-4477-B0EC-8288142714B2_big.png",
     "meme/2.png",
@@ -261,7 +262,6 @@ export default {
     "meme/IMG_231.png",
     "meme/IMG_232.jpg",
     "meme/IMG_233.png",
-    "meme/MZ}0%7GB7MK%H6A~$UTN1KW.png",
     "meme/QQ_Image_1687249903280.jpg",
     "meme/QQ_Image_1687249920388.jpg",
     "meme/QQ_Image_1687249943891.jpg",
@@ -321,6 +321,14 @@ export default {
     "meme/WoWScrnShot_091717_215353.jpg",
     "meme/psa.jpg",
     "meme/psc.jpg",
-    "meme/海岛物品.jpg"
+    "meme/上海人歧视外地人.jpg",
+    "meme/土豆露点.png",
+    "meme/奶爸大腿夹脸.png",
+    "meme/我都穷到要打工了.png",
+    "meme/我都踩一个了，还能踩另一个吗.png",
+    "meme/海岛物品.jpg",
+    "meme/渣男吴.jpg",
+    "meme/猪吴.jpg",
+    "meme/种猪色有人.jpg"
   ]
 }
